@@ -1,0 +1,4 @@
+P:/Hacking/Browser/cmake-build-debug/CMakeFiles/injector.dir
+P:/Hacking/Browser/cmake-build-debug/CMakeFiles/hack.dir
+P:/Hacking/Browser/cmake-build-debug/CMakeFiles/edit_cache.dir
+P:/Hacking/Browser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
